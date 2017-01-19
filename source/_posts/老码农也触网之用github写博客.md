@@ -2,6 +2,8 @@
 title: 老码农也触网之用github写博客（一）
 date: 2017-01-16 22:30:36
 tags: [github, github.io, hexo, mou, github blog]
+categories:
+- hexo
 ----
 
 > <div align="left">作为传统软件领域的老码农，早已对博客不太感冒。一次偶然的机会，我发现github.io可以用于搭建个人博客系统，而且由于基于markdown，语法简洁，灵活度大，样式也非常整齐美观，因此本农也决定下海试试这新潮玩意。在网上一番搜索后，确定了hexo + mou + markdown 这个组合来完成我的自建博客系统。</div>

@@ -4,7 +4,7 @@
 
 # Site
 title: 征途：星辰大海 
-subtitle: 老码农漫游网络世界
+subtitle: 老码农互联网世界漫游记
 description: 随笔，互联网，web开发，物联网，ML/DL 和其它
 author: PhoenixMY 
 language: zh-Hans
@@ -72,6 +72,5 @@ deploy:
   type: git
   repo: git@github.com:phoenixmy/phoenixmy.github.io.git,master
 
-avatar: /images/avatar.gif
 baidu_analytics: a37930b430843930170e0f5df69d20e5
 
